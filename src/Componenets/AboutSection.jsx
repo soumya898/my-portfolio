@@ -1,5 +1,6 @@
 import React from "react";
-import { aboutData, useTypingLoop, useInView } from "../utils/helper";
+import { aboutData, useTypingLoop, useInView } from "../Utils/helper";
+
 import Soumya from "../assets/Images/Soumya.jpg";
 
 const AboutSection = () => {
