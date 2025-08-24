@@ -67,7 +67,9 @@ const Navbar = () => {
           className="text-xl font-bold text-white hover:text-blue-400 transition-colors duration-300 mb-3"
           style={{ fontFamily: "CormorantGaramond, serif" }}
         >
-          Soumya Nayak
+       <span className="text-400">&lt;</span>
+          SoumyaNayak
+          <span className="text-400"> /&gt;</span>
         </div>
 
         <div className="flex flex-wrap justify-center gap-4">
