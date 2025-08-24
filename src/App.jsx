@@ -1,10 +1,10 @@
-import AboutSection from "./Componenets/AboutSection";
-import ContactSection from "./Componenets/ContactSection";
-import Experience from "./Componenets/Experience";
+import AboutSection from "./Components/AboutSection";
+import ContactSection from "./Components/ContactSection";
+import Experience from "./Components/Experience";
 
-import HeroSection from "./Componenets/HeroSection";
-import Navbar from "./Componenets/Navbar";
-import ProjectsSection from "./Componenets/ProjectsSection";
+import HeroSection from "./Components/HeroSection";
+import Navbar from "./Components/Navbar";
+import ProjectsSection from "./Components/ProjectsSection";
 
 
 const App = () => {
